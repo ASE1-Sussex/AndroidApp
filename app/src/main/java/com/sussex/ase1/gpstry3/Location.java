@@ -37,6 +37,10 @@ public class Location {
         this.timeStamp = timetime;
     }
 
+    public int test() {
+        return 5;
+    }
+
     @DynamoDBHashKey (attributeName = "id_location")
     public String getId_location() {
         return id_location;
