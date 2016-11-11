@@ -11,20 +11,48 @@ public class WebViewActivity extends AppCompatActivity {
     private WebView webView;
     private Context context;
     private String postcode;
+    private String typeFind;
+    private String lat;
+    private String lon;
+    private String url;
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.webview);
 
         Intent i = getIntent();
-        if (i.hasExtra("postcode")){
-            postcode = i.getStringExtra("postcode");
+        if(i.hasExtra("typeFind"))
+        {
+            typeFind = i.getStringExtra("typeFind");
+        }
+        if(typeFind.equals("P")) {
+            if (i.hasExtra("postcode")) {
+                postcode = i.getStringExtra("postcode");
+            }
+            url = createUrl(postcode);//"http://lowcost-env.kdumcfjv2e.us-west-2.elasticbeanstalk.com/TestMapServlet?maptype=%22heatmap%22&typeFind=P&postcode=" + postcode;
+        }
+        else
+        {
+            if (i.hasExtra("latitude")) {
+                lat = i.getStringExtra("latitude");
+            }
+            if (i.hasExtra("longitude")) {
+                lon = i.getStringExtra("longitude");
+            }
+            url = createUrl(lat,lon);//"http://lowcost-env.kdumcfjv2e.us-west-2.elasticbeanstalk.com/TestMapServlet?maptype=%22heatmap%22&typeFind=L&latitude=" + lat + "&longitude=" + lon;
         }
 
         webView = (WebView) findViewById(R.id.webView1);
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.loadUrl("http://lowcost-env.kdumcfjv2e.us-west-2.elasticbeanstalk.com/TestMapServlet?maptype=heatmap&postcode=" + postcode);
+        webView.loadUrl(url);
 
+    }
+
+    public String createUrl(String pc) {
+        return "http://lowcost-env.kdumcfjv2e.us-west-2.elasticbeanstalk.com/TestMapServlet?maptype=%22heatmap%22&typeFind=P&postcode=" + pc;
+    }
+    public String createUrl(String lat, String lng) {
+        return "http://lowcost-env.kdumcfjv2e.us-west-2.elasticbeanstalk.com/TestMapServlet?maptype=%22heatmap%22&typeFind=L&latitude="+lat+"&longitude="+lng;
     }
 
 }

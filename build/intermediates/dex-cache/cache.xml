@@ -3,840 +3,840 @@
 
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.1_d7f61364b23d0ba9c8a74162b82a5dff0041a038/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_3295e37e43e33a936d79cf2f894713d76f739a8c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-autoscaling-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4aa8d8f3b78868e68cae3caa2b2a40410dc50f81">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-autoscaling-2.3.2_91f851310cd3cfb74ccb2f1d16bd8951fa7c02f7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.1_cbbe17eb6b776d9600cde69c7a7a132f08d97183/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ced3f41f4f27156ef7e3fdf7155dcaf9f2c5afc2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-elb-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0d89b9c4981d24c3aa41377295a311c00a423804">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-elb-2.3.2_5662714a2698175be14e3a7325a3bf59d0af3ed8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="518adc52081d41724932b41bc132e4d50a352b86">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.1_406862cffd34a5c54cab7d7bd1fe1371791ba29d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_8ec46bbd138deb61fab8d563c1151581c5e39f68/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-cloudwatch-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4584a3f799a8d654bfa9beae8a071272d5004805">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-cloudwatch-2.3.2_8ee6af6516e71f270b7a7af0d87b5601d762b620/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_39ec1877baaf75d7cc90b026f82c46d6cf8c97b4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-apigateway-core-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="673a40bb7b89b99b21fc448d259569415e82d3b2">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-apigateway-core-2.3.2_af738e3327f80f29fe35d36d4bedc7bfd9609381/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_8f1e18ceea49dbd32743d3bfa5577d70a8259990/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_710cf72c788b5c53810ca4984f9af2592a94ef3b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.1_4635698fbbd2dfba8385d0380bff5301265f2416/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_b5ea8993bea886fb96b765ffd9c095ed8af414a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6e75adeb7533b02376f69f4597e6907071a69aec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.1_2e26f468c56354bada6d153d9feee231c35128bb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.1_6e370e6535d800aad60145875f2d5bd9d14b5a69/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_544c9a7d218b68b9bece01b2a205e89271f38198/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-kinesis-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="bb13fe7a03a96a5c6ab02f37a54856b4eb773c7a">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-kinesis-2.3.2_be37f2bbfba6715891aa4ccc7a3957339a17b060/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.1_ce8eb1f5f989ebd88c4a31e5f9ebc99865d2080b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ac8365c87591065db07f7bac8551504504832cd4">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_c9e7b5693247f2d568228f2dac09447972e46a78/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_fb878682cd9db1f91fd7a5bc2cc080c70f701862/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_0275671d2b9452aeb704b521f95c6daa561a4204/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.1_3928033e4719d9985f8ba7737760d0cfaa68e678/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_09d605b9413d8be2a184633fa706fc8ffe08fff6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.1_fb739e760c5606412064dd45a581557c7235cf04/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_a5fb1f944880b81706090c30ff6fcf3aa2c4417b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.1_d405200a6dc51c65b46395877d636b00982f9234/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.1_ed4d465308ecfcc02b256c5a5699f62b4e877d0f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_0664742cd1926d6f7c343b7e89ce5075302cf735/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.1_b16107059e8bafd4e45f88918840e1a4d8907273/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-ses-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="daeb97edc45f3538fdd5784de6b8ce7149213c11">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-ses-2.3.2_6bf682814828a818ce2a80369773981aa50d0ba0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_10d6ccdf85d9838ba59aedec4272a64ef515d4d5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_63f855e3406168f24669ea3c1a96bf1326f3c94e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-ddb-mapper-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7ea00260a65147fe7910051de8e02f31dca05391">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-ddb-mapper-2.3.2_c45847e295ce6135719df9658145d5d466b44134/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.1_966ed92a1d73f5fde675d2842f85f04aefee7296/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-cognitoidentityprovider-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="99ef04fcb14f81734c1b4d36e0314848b0d71677">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-cognitoidentityprovider-2.3.2_5250c3cc42d04f48cef8d363b9936ecc2cf17774/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.1_c7b5f8b3c52375d2343686082c7d944874ccd2ca/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_472249fd7a1e0538f4334e266c918c8bd91d5c7d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.1_89152654fdafe2d04e9322f210d19484339dbacd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_eda425689bdb01afc7ad01c0f78d623e0b181bf7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-s3-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1a986182c6cf99b9591575f967c761375b264ef0">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-s3-2.3.2_b71982f5de2e9a7857c83758706d8eae73516cf0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.1_5acab8e3e4ad8a50fc2c66d67107ac0d84232c38/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.1_10de5581c3e106a2a593889cb08689f587ef27c5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_bb3d33e8701ef4c09478cc5093808b53c1e0fbd0/classes.dex" />
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_8549a39c1e8d182af748800f771e1d118f71fbde\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_562730acb71f9ce0e5029fa3a0ed92684461d0ea/classes.dex" />
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_31726d16860b66fd12185707a75cc31ee38c664e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-sns-2.3.2.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="a2a2c2ef340dcae6bca31afc5e53cd5be7797463">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-sns-2.3.2_b4745ad4567157d7b6c0a63bc2ad5e2f37b70571/classes.dex" />
+        sha1="f0e96478ca3147bc588aadb9ae467d85b42473cc">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.6.1_7e266a767cfff268597637e782e6b1b691ee335c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-ddb-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2ecd5b9bc804139425d6807dfe9869f89779d8cd">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-ddb-2.3.2_da0d3d64f91d12d02296822be317bca366d580f7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="caa2ef0d7b2efe405e70fbce59512150f980744d">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_22cfff9871437b3ed6e1338c9cd440afd57d60bd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ee348adaa3a185988b69a36dc43f8ebab13914b3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_788f032daebed7610e8f5cf7221a3527355b8f8f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.1_6ad435def1d3a49a073513e0172bef4fa689fbc8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-ec2-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0686b7e59160e081cf75560ade3655df80f94c9b">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-ec2-2.3.2_d82d4e57db65796c9a6925dd6fb3a35a2d52ba2c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_8740617008caf5aaad937127c179e35023781299/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-sqs-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="57d662aba86bf40f9a88b11f578be18a3c53504d">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-sqs-2.3.2_1d34c0ec3c0a4b977dfa74bb64d4cfd9cb49d9a5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a76a6983a23788b3689524d4bed763955afbd306">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.1_0a8bbf39e229fe8ebfd40128703806ec2bae8aac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-kms-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="3f4151f4d135052e65076370a6f08e59d0e98113">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-kms-2.3.2_6c0656c8a2511201eec3aa05c9e3426e9e925201/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.1_e6a5732eb6490eaa2bc26d0f551d7b3ae2e14330/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.1_7d5e2182b33a0686bf16cacf5ef2c456ca1fa683/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-core-2.3.2.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-core-2.3.2.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="5d65084ac8291cde87b1e1a07c403dfa47e2c707">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-core-2.3.2_3c1c0ec1999202635b1ad03ef6ea22e6df06d6b7/classes.dex" />
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-core-2.3.2_c480712013da269a01ac0c200869ab75ff63aa75\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.1/jars/classes.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="c4394d46152165cd3256fb711ac94f66a28fbae1">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.1_1304ae5ef175c5363266107e02bb880628864294/classes.dex" />
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.6.1_a31a44bbe73f6eebce1e519d8b182a86fe696e5a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_fe0a094066a41821103c3d3f47be3352f35c6137/classes.dex" />
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_a5becfdbda3dee26f671c92590f09b754423eb75\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.1_7b01e199afcd530082f2cc126002eefeda19251f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.1_dc63e8b58938abaf415369e3200a8c9bae03788b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.1_e21b5b4983102c6bfdee06256b0c49dd9bd09f29/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_5e3dd1c01ec8accb2f9be2ffb1ccb7a2d5af45dd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f92034b287b4cf2e98c3ca506ce6751c756f40be/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.1_8a290f554a52b17026f3bcb6004b2cf246fdbded/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_c27b3e8649a32c48662b4f7d73d27e5d3cdf994b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_bf19466626c6e96fd90d4736ffde492d6291fd7f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_5956b85e67749198af424c570eaa52c4025b7e43/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_c550208407530ffead7898d07bde6186e45565cd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-iot-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="477d2ac36109ce0523d180af2afcd08506959b20">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-iot-2.3.2_af5dc246973048e249c2be757eeb6415d2c2f5c7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_a034ff3cb0cb063dea521fcc7b541e4002efc390/classes.dex" />
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_292b871c3102a10048c01ed311398d9e35e3fdb1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_92075df1f79857fe3a9b92c1d6df1f356ab36da0/classes.dex" />
+        sha1="83e18a6fec5269fab2193b491087d160257f5822">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2dc6095c4b501d411adc365783d33855b6f7b7bc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-sdb-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d34faa4bece5af8fe91b6a216483dae81e1342da">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-sdb-2.3.2_96d6df75ecf70156240c48bcf7b57a050ff9a37d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.1_1583842aa18f08d0a0d4cdc766f46f554f9ecee0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_7367ff967a635621372bf7eade9eefc5f4cf6244/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-mobileanalytics-2.3.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c987bba53e4d4ab999e8aa6b851111dce4b94a8d">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-mobileanalytics-2.3.2_6d30de7df2cad43121a0af1c948e1bda62fb2c38/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_be7daf0b81d3c652f9406587e0a53754bd4e3ef2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_1bde0a9d476df38881863ce2fe5d3aa0140ac77d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="babb25794a7599069d34705038744c5760a9a88c">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.1_92c4e4c8b9526e8da11b40b08b7639c64e7de9b8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.1_86cff9bac53708fe265b08ca5a3722057b2206f0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_4e71701671c002dd1f0990216d41a4eeaa51c26e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_1a15b4c6baa91bd280876f35594172c7abc07cda/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_49615cf48cd77ec336d82e2879f97815680a99cd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-machinelearning-2.3.2.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-machinelearning-2.3.2.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="7ab382e897a495ad26afcdf03bedf0ac9ae37cc6">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-machinelearning-2.3.2_3fbdc14e3b4018948e5fe062eef17b960795b6d9/classes.dex" />
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-machinelearning-2.3.2_b66bcfd8675b03560b4a840b04e049a96566d7fc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.1/jars/classes.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="a136366045678579300d161de97c2211c4c4f7a0">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.1_a1eda96fd59931cd678014071b8553f6d27e65f5/classes.dex" />
+        sha1="babb25794a7599069d34705038744c5760a9a88c">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.6.1_89c6b9e4f1724731454ce90f55bb34e7fa4cf650\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-lambda-2.3.2.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-sqs-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="57d662aba86bf40f9a88b11f578be18a3c53504d">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-sqs-2.3.2_df0b0cbdffc80916463e3d51d9075003fc032d0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cdddf21e0a8205e9955661061d1735ed10e44a7b">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.6.1_447e204d52c37c68cdf0b7559883126f5a0a5129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c828add497d2b7a3de7c047bf72050cd4b7521a1">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.6.1_25b61448c7053e504837793df533fb089a1cd3e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.6.1_b9f2497e25f6571ebb97acc31b08bf4e67734e98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_f46ff4a23b0ad03ba9c3a18ffa8b62a26520a968\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_3d0d5916078407084319c1506b6d039b79e72222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-ddb-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2ecd5b9bc804139425d6807dfe9869f89779d8cd">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-ddb-2.3.2_f5b645152dfb335cf868083bb45e82fe2e028612\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-ec2-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0686b7e59160e081cf75560ade3655df80f94c9b">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-ec2-2.3.2_caa810144f7c071ffacf9fa9d2601a5daa6ea0ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_6e7075bb1fd02506f56922849c3133b37f0a96a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-sns-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a2a2c2ef340dcae6bca31afc5e53cd5be7797463">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-sns-2.3.2_43adeda7fcc96bde7c2a929f199907a812fd0991\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.1_e3cc927ed3e68f7e1a115c87c9b71172ce259bd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_49c9a86e4ed812862f2faee094bff5f2d5744834\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-ses-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="daeb97edc45f3538fdd5784de6b8ce7149213c11">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-ses-2.3.2_e99285e80a0cb95b5cdf519419020fc661bca70c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-lambda-2.3.2.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="942ea305aaa477a996d941731243e9d7f52a977f">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-lambda-2.3.2_ec9b25275b62492048f66f09bd8764e8907bf739/classes.dex" />
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-lambda-2.3.2_0a2448fe038eed22fab25168a6c2be92055928d4\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/libs/aws-android-sdk-cognito-2.3.2.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_17782c0afb7b733138466e1ca715fa90170819be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6aa7c76cbaa867e05dbad0afab1ef0e65c4e55f">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.6.1_98bf5df016d102e2d0aa04359b01ba01710309be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ff9be0a1e75a21c372735930d8987a55b5e6065f">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.6.1_e60e9c481a1eea1086d29c36727c38edc35801b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-sdb-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d34faa4bece5af8fe91b6a216483dae81e1342da">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-sdb-2.3.2_87ea5b687ca211098dd68294c0c9ddf6c9468680\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0dfc12e4aacf514346ea866560c99807d032bc48">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.6.1_0264c89960881b36a52e37d0d75f0ab21ce8b7ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-cognito-2.3.2.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="9e6b7ae54c9bc29d197171be3da23324df903d92">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/aws-android-sdk-cognito-2.3.2_02358bb73b152ef1b3d9241f5c62e8f070ac557a/classes.dex" />
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-cognito-2.3.2_67b6c2cf71dd727e250021d70789e332692d54df\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.6.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="9f09f12eae2c34352252308e8e17e7680eab7536">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_698a15f04d22b0c8ca6891fc9704f25e6bb1c2dd/classes.dex" />
+        sha1="a76a6983a23788b3689524d4bed763955afbd306">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.6.1_6b39eb2b75c1f2fba52d4e744cecc9c4457151a4\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="518adc52081d41724932b41bc132e4d50a352b86">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.6.1_0ff72bfa6aefbb3a13d3543f7a326475f3242acf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c0cf3d4f9d7d076f301e110b92e18ae23da12c2">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.6.1_0406ee6edfd583e7d119557904a3f1dd8f9bfb89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a53ac0560ab915a02c50d2e5c7b003381e6fb5e3">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.6.1_d373f61d7776ccb2bad9aff4f754886b85368a95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_c7a1d66f6edf2bdea571c8b720d825c2b19599df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-ddb-mapper-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7ea00260a65147fe7910051de8e02f31dca05391">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-ddb-mapper-2.3.2_23d34f7864aa5f7fe167e6c24b2b3b0d2b6ac682\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-iot-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="477d2ac36109ce0523d180af2afcd08506959b20">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-iot-2.3.2_1c1e814446df1701fccb727a960df7e31c33bb00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-mobileanalytics-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c987bba53e4d4ab999e8aa6b851111dce4b94a8d">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-mobileanalytics-2.3.2_390394c3041e33e63a905c7dd38fc36cbe895d4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.1_35b372a1385558308c971284a647a98356692519\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0f659458c1c152fd36c74c901ba23302b7f4c996\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.6.1_ed8d1436a7c7bf0aa629d6b71ab03f43723859d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/ak435/Desktop/AdvCompSci/ASE/NewProject/AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c4e0f1723422548abb65823089ae0af3bd6d62fb/classes.dex" />
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3ae847eb542f76d0f0cd0841cc7e8c7104844aff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62ff84124b89177abc0c27f3e38c9732f2d41617">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.6.1_ad154c30a68e211cf9e13f4d37693784394ffee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-autoscaling-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4aa8d8f3b78868e68cae3caa2b2a40410dc50f81">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-autoscaling-2.3.2_7b9c9de66a84745a9b97cc8c9a2176e68d982e0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.6.1_0a0609b3e81f60b68c373f85e68faa9f2b78a15a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-cloudwatch-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4584a3f799a8d654bfa9beae8a071272d5004805">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-cloudwatch-2.3.2_bd695aafe8b6a1967e734dbdb66defb9414861ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.6.1_48bbd057eb32c3a88bd84dcd6a18250f6b510f88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.1_8b15fbdb68f727ad537160210f5f69538613f1f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1810ae0df0a1b9b539ce97df54e96f2bf8f5ff94">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.6.1_84ad72a120acd993290f2402ff764c979906cb0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-apigateway-core-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="673a40bb7b89b99b21fc448d259569415e82d3b2">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-apigateway-core-2.3.2_e8baad7759666258f9b81bc13341cd7ede7541b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_411db5dd03dcd0e052a8f5009a97d6c2f1500779\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3630038bffa8cedd390a53fbfbb8501723cf0c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="90be14317e3f26d18438e8dbf8544500d1dfe07f">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.6.1_0c6bcb77cf995a97854020253e97812f0d572556\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cf2c4e6607c77b0e671dc5ca252c5ea0d9c1ce0d">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.6.1_3fb8b27a0780c9a3d83ea1594bf2691c210276d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.1_4004694ea664dd28985ecbd8343122cac2d7a3ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_b8cb7c60c2226fb23b3f8903f0d2216f4ace3fb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ea2a495a9d410d559b1db4b138ebc32d19a3431f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_4e555ca8c3bac8ae14e2e9f1f36583377670c0af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0e0e0681c26a1f575d3e4c542182dd59bab75fd6">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.6.1_452a4c3859425e11dece0acdabb536a103b89ece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_e4250d18aa536bdaf037d21516babe4624b98c4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-cognitoidentityprovider-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="99ef04fcb14f81734c1b4d36e0314848b0d71677">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-cognitoidentityprovider-2.3.2_cb5503ac89bec3644ae86e036fb7f7b4e8dc9166\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-kms-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3f4151f4d135052e65076370a6f08e59d0e98113">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-kms-2.3.2_98e5ee7761d47d6eff2d506c3a02364bdfe13641\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8db47be01cbe8cfa81e9cecce5ff1371ed1ad95">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.6.1_b03b151cb63abbdfae643fdccbe5420c3692bf28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_f8203b200b12b96e47573acabf965d77a13e38cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ebae43cd06058e99e08c8b4d305b72f2b9927c6">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.6.1_3e5fb48f075bb074f53824d8348a92e7c9a8d515\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-elb-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0d89b9c4981d24c3aa41377295a311c00a423804">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-elb-2.3.2_591fd455bf76e2f37a799c63c143a9e663d3cbfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_87c72eb38b51e9fb5cb7cc5991bc22ace0ed2371\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_de2b9849f728e3db54e73fc3031a52f54a898a60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c2f83d43a97eb9dec65c60d6c0e62af3b1d429f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0cb44d11e59a7339e147ecd031fc1cc2c4f5d2b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="526f4b02f1771fa7607ff1b89fe2e9bd0344fee8">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.6.1_ca98b36dae699264dcb8958b691262e29f987dbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_977277db8092159a26033390bd785bb97a0bbe99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.1_54a36f058f1288b558fcb597db53636810af0e5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d45c048bb1c55cf963899190e507065aea8e5be9">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.6.1_3b118357b1a530de39cf979a74ba6306554b0239\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c7ba0ae0a12ec3d5c487c354f8264c0855d6e856\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.1_d1fbb8b84f50353252544c177366be467409e150\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_5c6cc2c1d8d778a2782b59fef3f0f1ee58266c04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.6.1_ab1a4d4b3449d52ecff7cdaf5ae453952af9dccd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.1_e2db2e191ab59e57478e2b8ba00d9ce4ea50b975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="931faac9bb812f4618a69415a747b0eb4ed7a0fb">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_07d9baabd81b71539660a30386a48008b6ac92f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="79f521967ad7f49b34748db89df02852c2b2f87b">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.6.1_d8d89cff010a47a21f980630545f59243e4b5d51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-kinesis-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bb13fe7a03a96a5c6ab02f37a54856b4eb773c7a">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-kinesis-2.3.2_70e85d34685b0d66773d36a7324e001de6073eb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a136366045678579300d161de97c2211c4c4f7a0">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.6.1_47ad0027cb16f29e0af2a082747d3432999719ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_831fcee3cb5e65bedf0f0cfd123264677d563573\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.6.1_b45a5da416354fc6be487714e4da921c438b30c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ad7706f8bb4a985656a8d2142f74021c8b0e03d8">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.6.1_4cc13ca7b4ab8e141239d6ec8465cf48c1a28a20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8bd446126753194d4810544d58531a512668354f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.6.1_fec70f6ee115dab733da10345e9fe790482e87e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0cae6511c5705869cacf199f8abb0ea84cd10157">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.6.1_bc76f86483d5d6a8909f0c29caee13eb1097f179\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_002b7715df41308260a3fce1bb9993d95d402f73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.6.1_bd3344a57bb152df4906f7738404c2b819bb9c11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dfcba20b85ef3669a8ced0a8760a6df281cbd7c7">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.6.1_72e29c5603ccd0287f470d233ebc9f022ba075be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\libs\aws-android-sdk-s3-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1a986182c6cf99b9591575f967c761375b264ef0">
+        <dex dex="C:\Users\gerar\Desktop\ASE1_Task4\AndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\aws-android-sdk-s3-2.3.2_a3cab74dd3a711769c7363ad472e8f96846ba111\classes.dex" />
     </item>
 
 </items>

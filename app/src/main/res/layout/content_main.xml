@@ -14,32 +14,55 @@
     tools:context="com.sussex.ase1.gpstry3.MainActivity"
     tools:showIn="@layout/app_bar_main">
 
-    <EditText
+    <Button
+        android:text="Show current location"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="textPersonName"
-        android:text="Name"
-        android:ems="10"
-        android:id="@+id/postcode"
-        android:layout_above="@+id/mapButton"
-        android:layout_centerHorizontal="true" />
+        android:id="@+id/button2"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="79dp"
+        android:onClick="onClick2"/>
+
+    <TextView
+        android:text="Or"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_above="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp" />
 
     <Button
-        android:text="Button"
+        android:text="Find postcode"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/mapButton"
         android:onClick="onClick"
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"/>
+        android:layout_centerVertical="true"
+        android:layout_alignEnd="@+id/postcode"
+        android:layout_alignStart="@+id/button2" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textCapCharacters"
+        android:hint="Postcode"
+        android:ems="10"
+        android:id="@+id/postcode"
+        android:layout_above="@+id/mapButton"
+        android:layout_marginBottom="42dp"
+        android:layout_alignStart="@+id/button2"
+        android:layout_alignEnd="@+id/button2"
+        android:textAlignment="center"/>
 
     <TextView
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
-       android:text="Enter postcode for map"
+       android:text="Show price paid map by"
        android:id="@+id/txt"
-       android:layout_above="@+id/postcode"
-       android:layout_centerHorizontal="true"
-       android:layout_marginBottom="46dp" />
+        android:layout_above="@+id/postcode"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="35dp" />
 
 </RelativeLayout>
