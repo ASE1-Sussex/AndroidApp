@@ -103,11 +103,6 @@ public class MainActivityTest {
             }else {
                 Log.e("ASE1_VALID_POSTCODE", postcode += " : false");
             }
-<<<<<<< HEAD
-=======
-            Log.e("TASE1_VALID_POSTCODE", logString);
-        assertTrue(aaa.validPostcode(goodPostcodes[i]) == (areaDistrict.matches(aMatch) == sectorUnit.matches(sMatch)));
->>>>>>> f5dfdff4848e1ea22d9a9c8586c15c7ebf95783f
 
             assertTrue(ma.validPostcode(postcode));                         // test to see if postcode generated passes the valid postcode test
         }
