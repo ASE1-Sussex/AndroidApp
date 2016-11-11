@@ -22,16 +22,22 @@ import java.util.UUID;
 
 public class DBHandler extends SQLiteOpenHelper {
 
-    private static final int DATABASE_VERSION = 2;
+    private static final int DATABASE_VERSION = 3;
     private static final String DATABASE_NAME = "locationDB.db";
-    private static final String TABLE_LOCATIONS = "locations";
 
+    private static final String TABLE_LOCATIONS = "locations";
     private static final String COLUMN_ID = "_id";
     private static final String COLUMN_PHONE_ID = "phoneid";
     private static final String COLUMN_LOCKEY = "lockey";
     private static final String COLUMN_LATTITUDE = "lattitude";
     private static final String COLUMN_LONGITUDE = "longitude";
     private static final String COLUMN_TIMESTAMP  = "timestamp";
+
+    private static final String TABLE_LOG = "auditlog";
+    private static final String COLUMN_IDL = "_id";
+    private static final String COLUMN_TIME = "logtime";
+    private static final String COLUMN_TYPE = "logtype";
+    private static final String COLUMN_MESSAGE = "logmessage";
 
     public DBHandler(Context context, String name, SQLiteDatabase.CursorFactory factory, int version)
     {
@@ -48,13 +54,22 @@ public class DBHandler extends SQLiteOpenHelper {
                                         COLUMN_LATTITUDE + " DOUBLE," +
                                         COLUMN_LONGITUDE + " DOUBLE," +
                                         COLUMN_TIMESTAMP + " DATETIME" + ")";
+
+        String CREATE_LOG_TABLE       = "CREATE TABLE " + TABLE_LOG + "(" +
+                                        COLUMN_IDL + " INTEGER PRIMARY KEY," +
+                                        COLUMN_TIME + " DATETIME," +
+                                        COLUMN_TYPE + " INT," +
+                                        COLUMN_MESSAGE + " STRING" + ")";
+
         db.execSQL(CREATE_LOCATIONS_TABLE);
+        db.execSQL(CREATE_LOG_TABLE);
     }
 
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion)
     {
         db.execSQL("DROP TABLE IF EXISTS " + TABLE_LOCATIONS);
+        db.execSQL("DROP TABLE IF EXISTS " + TABLE_LOG);
         onCreate(db);
     }
 
@@ -243,6 +258,32 @@ public class DBHandler extends SQLiteOpenHelper {
             cursor.moveToNext();
         }
         if (count == deleted)
+            return true;
+        else
+            return false;
+    }
+
+    public boolean addLog(int type, String message) {
+        long inserted = 0;
+        SimpleDateFormat dateFormat = new SimpleDateFormat("yyyyMMddHHmmssSS");
+        Date date = new Date();
+        try {
+            ContentValues values = new ContentValues();
+            values.put(COLUMN_TIME, dateFormat.format(date));
+            values.put(COLUMN_TYPE, type);
+            values.put(COLUMN_MESSAGE, message);
+
+            SQLiteDatabase db = this.getWritableDatabase();
+            inserted = db.insert(TABLE_LOG, null, values);
+            Log.e("SQL", "Log record inserted" + inserted);
+            db.close();
+
+        } catch (Exception e) {
+            Log.w("TAG_NAME", e.getMessage());
+            return false;
+        }
+
+        if (inserted == 1)
             return true;
         else
             return false;

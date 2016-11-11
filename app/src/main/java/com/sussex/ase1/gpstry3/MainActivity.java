@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity
 
     TextView postcode;
     Button mapButton;
+    private DBHandler db;
 
     public Context context;
     @Override
@@ -43,7 +44,6 @@ public class MainActivity extends AppCompatActivity
         setSupportActionBar(toolbar);
 
 
-
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
@@ -57,6 +57,8 @@ public class MainActivity extends AppCompatActivity
 //        bindService(serviceIntent, myConnection, Context.BIND_AUTO_CREATE);
      //   remoteService = new RemoteService(MainActivity.this);
 
+        db = new DBHandler(this, null, null, 1);
+        db.addLog(1, "Running Task 4");
     }
 
     @Override
@@ -111,13 +113,16 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_send) {
 
         } else if (id == R.id.location) {
+            db = new DBHandler(this, null, null, 1);
+            db.addLog(1, "Running Task 2");
             Intent mapIntent = new Intent(this, LocationActivity.class);
             startActivity(mapIntent);
 
         } else if (id == R.id.task3) {
+            db = new DBHandler(this, null, null, 1);
+            db.addLog(1, "Running Task 3");
             Intent task3Intent = new Intent(this, Task3Activity.class);
             startActivity(task3Intent);
-
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -129,6 +134,7 @@ public class MainActivity extends AppCompatActivity
     public void onClick(View arg0) {
         String pcode = postcode.getText().toString();
         if (!validPostcode(pcode)) {
+            Toast.makeText(this, "Postcode format invalid. Try again.", Toast.LENGTH_SHORT).show();
             return;
         }
         Intent webIntent = new Intent(context, WebViewActivity.class);
@@ -137,14 +143,14 @@ public class MainActivity extends AppCompatActivity
     }
 
     public boolean validPostcode(String postcode){
-      //  valid postcode formats    AA9A 9AA  |  A9A 9AA   |  A9 9AA  |  A99 9AA   |  AA9 9AA   |  AA99 9AA
+    //              valid postcode formats    AA9A 9AA  |  A9A 9AA   |  A9 9AA  |  A99 9AA   |  AA9 9AA   |  AA99 9AA
+    //  ("(GIR 0AA)|((([A-Z-[QVX]][0-9][0-9]?)|(([A-Z-[QVX]][A-Z-[IJZ]][0-9][0-9]?)|(([A-Z-[QVX]][0-9][A-HJKPSTUW])|([A-Z-[QVX]][A-Z-[IJZ]][0-9][ABEHMNPRVWXY])))) [0-9][A-Z-[CIKMOV]]{2})")
 
         if (postcode == null){
             Toast.makeText(this, "Postcode is empty. Try again", Toast.LENGTH_SHORT).show();
             return false;
         }
-//        if (postcode.matches("(GIR 0AA)|((([A-Z-[QVX]][0-9][0-9]?)|(([A-Z-[QVX]][A-Z-[IJZ]][0-9][0-9]?)|(([A-Z-[QVX]][0-9][A-HJKPSTUW])|([A-Z-[QVX]][A-Z-[IJZ]][0-9][ABEHMNPRVWXY])))) [0-9][A-Z-[CIKMOV]]{2})"))
-//            return true;
+//      ("(GIR 0AA)|((([A-Z-[QVX]][0-9][0-9]?)|(([A-Z-[QVX]][A-Z-[IJZ]][0-9][0-9]?)|(([A-Z-[QVX]][0-9][A-HJKPSTUW])|([A-Z-[QVX]][A-Z-[IJZ]][0-9][ABEHMNPRVWXY])))) [0-9][A-Z-[CIKMOV]]{2})"))
 
         String[] pArray = postcode.toUpperCase().trim().split(" ");
         String areaDistrict = pArray[0];
@@ -172,7 +178,6 @@ public class MainActivity extends AppCompatActivity
         }
 
         if (!areaDistrict.matches(pMatch)) {
-           Toast.makeText(this, "Postcode format invalid. Try again.", Toast.LENGTH_SHORT).show();
            return false;
         }
 
@@ -190,7 +195,6 @@ public class MainActivity extends AppCompatActivity
         }
 
         if (sectorUnit != "" && !sectorUnit.matches(pMatch)) {
-            Toast.makeText(this, "Postcode format invalid. Try again.", Toast.LENGTH_SHORT).show();
             return false;
         }
 
