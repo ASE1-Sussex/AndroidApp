@@ -21,6 +21,7 @@ import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -342,22 +343,9 @@ public class Task3Activity extends AppCompatActivity {
                 return false;
             }
         }
-//        public void onClick(View arg0) {
-//            Intent intent = new Intent(context, WebViewActivity.class);
-//            startActivity(intent);
-//        }
 
-//    public void onClick(View view)
-//    {
-        //    String postc = postcode.getText().toString();
-        //       String mapUrl = "http://lowcost-env.kdumcfjv2e.us-west-2.elasticbeanstalk.com/TestMapServlet?maptype=heatmap&postcode=BN3";
-        //       Intent Getintent = new Intent(Intent.ACTION_VIEW, Uri.parse(mapUrl));
-        //       startActivity(Getintent);
-        //   }
+        public void onClick(View view) {
 
-
-//    }
-
-
+        }
 
 }

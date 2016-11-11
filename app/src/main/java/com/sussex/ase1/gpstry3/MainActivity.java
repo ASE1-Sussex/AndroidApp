@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.sussex.ase1.gpstry3;
 
 import android.content.Context;
@@ -45,6 +46,7 @@ public class MainActivity extends AppCompatActivity
 
     TextView postcode;
     Button mapButton;
+    private DBHandler db;
 
 
     // Aux variables
@@ -93,7 +95,8 @@ public class MainActivity extends AppCompatActivity
 
         ((EditText)findViewById(R.id.postcode)).setFilters(new InputFilter[]{new InputFilter.AllCaps()});
 
-
+        db = new DBHandler(this, null, null, 1);
+        db.addLog(1, "Running Task 4");
 
 
 
@@ -115,6 +118,9 @@ public class MainActivity extends AppCompatActivity
 
 
 
+
+
+
     @Override
     public void onBackPressed() {
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -131,6 +137,8 @@ public class MainActivity extends AppCompatActivity
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
+
+
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -152,6 +160,8 @@ public class MainActivity extends AppCompatActivity
         return super.onOptionsItemSelected(item);
     }
 
+
+
     @SuppressWarnings("StatementWithEmptyBody")
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
@@ -160,9 +170,13 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.location) {
             Intent mapIntent = new Intent(this, LocationActivity.class);
+            db = new DBHandler(this, null, null, 1);
+            db.addLog(1, "Running Task 2");
             startActivity(mapIntent);
 
         } else if (id == R.id.task3) {
+            db = new DBHandler(this, null, null, 1);
+            db.addLog(1, "Running Task 3");
             Intent task3Intent = new Intent(this, Task3Activity.class);
             startActivity(task3Intent);
 
@@ -177,6 +191,7 @@ public class MainActivity extends AppCompatActivity
     public void onClick(View arg0) {
         String pcode = postcode.getText().toString();
         if (!validPostcode(pcode)) {
+            Toast.makeText(this, "Postcode format invalid. Try again.", Toast.LENGTH_SHORT).show();
             return;
         }
         Intent webIntent = new Intent(context, WebViewActivity.class);
@@ -213,14 +228,14 @@ public class MainActivity extends AppCompatActivity
     }
 
     public boolean validPostcode(String postcode){
-      //  valid postcode formats    AA9A 9AA  |  A9A 9AA   |  A9 9AA  |  A99 9AA   |  AA9 9AA   |  AA99 9AA
+    //              valid postcode formats    AA9A 9AA  |  A9A 9AA   |  A9 9AA  |  A99 9AA   |  AA9 9AA   |  AA99 9AA
+    //  ("(GIR 0AA)|((([A-Z-[QVX]][0-9][0-9]?)|(([A-Z-[QVX]][A-Z-[IJZ]][0-9][0-9]?)|(([A-Z-[QVX]][0-9][A-HJKPSTUW])|([A-Z-[QVX]][A-Z-[IJZ]][0-9][ABEHMNPRVWXY])))) [0-9][A-Z-[CIKMOV]]{2})")
 
         if (postcode == null){
             Toast.makeText(this, "Postcode is empty. Try again", Toast.LENGTH_SHORT).show();
             return false;
         }
-//        if (postcode.matches("(GIR 0AA)|((([A-Z-[QVX]][0-9][0-9]?)|(([A-Z-[QVX]][A-Z-[IJZ]][0-9][0-9]?)|(([A-Z-[QVX]][0-9][A-HJKPSTUW])|([A-Z-[QVX]][A-Z-[IJZ]][0-9][ABEHMNPRVWXY])))) [0-9][A-Z-[CIKMOV]]{2})"))
-//            return true;
+//      ("(GIR 0AA)|((([A-Z-[QVX]][0-9][0-9]?)|(([A-Z-[QVX]][A-Z-[IJZ]][0-9][0-9]?)|(([A-Z-[QVX]][0-9][A-HJKPSTUW])|([A-Z-[QVX]][A-Z-[IJZ]][0-9][ABEHMNPRVWXY])))) [0-9][A-Z-[CIKMOV]]{2})"))
 
         String[] pArray = postcode.toUpperCase().trim().split(" ");
         String areaDistrict = pArray[0];
@@ -248,7 +263,6 @@ public class MainActivity extends AppCompatActivity
         }
 
         if (!areaDistrict.matches(pMatch)) {
-           Toast.makeText(this, "Postcode format invalid. Try again.", Toast.LENGTH_SHORT).show();
            return false;
         }
 
@@ -266,7 +280,6 @@ public class MainActivity extends AppCompatActivity
         }
 
         if (sectorUnit != "" && !sectorUnit.matches(pMatch)) {
-            Toast.makeText(this, "Postcode format invalid. Try again.", Toast.LENGTH_SHORT).show();
             return false;
         }
 
@@ -430,4 +443,3 @@ public class MainActivity extends AppCompatActivity
             return true;
     }
 }
-

@@ -114,14 +114,14 @@ public class TestMapServlet extends HttpServlet
            	if(typeFind.equals("P")) // P = Postcode
            	{
            		postcode = req.getParameter("postcode");
-           		sql = "SELECT postcode,latitude, longitude, price as weight FROM price_by_postcode WHERE postcode like '" + postcode + "%'";
+           		sql = "SELECT postcode,latitude, longitude, price/100000 as weight FROM price_by_postcode WHERE postcode like '" + postcode + "%'";
            		//sql = "SELECT  postcode, latitude, longitude, price as weight FROM price_by_postcode AS z JOIN (SELECT latitude as latpoint, longitude as longpoint, " + radius + " AS radius,      111.045 AS distance_unit FROM price_by_postcode WHERE postcode like '" + postcode + "%' limit 1) AS p ON 1=1 WHERE z.latitude BETWEEN p.latpoint  - (p.radius / p.distance_unit) AND p.latpoint  + (p.radius / p.distance_unit) AND z.longitude BETWEEN p.longpoint - (p.radius / (p.distance_unit * COS(RADIANS(p.latpoint)))) AND p.longpoint + (p.radius / (p.distance_unit * COS(RADIANS(p.latpoint))))";
            		
            	// set the correct zoom level based on the length of the postcode entered.
             	switch (postcode.length()) {
             	case 1:	zoom = 9;
             			// select statement will look for postcodes with one alphabetic character followed by a digit.
-            			sql = "SELECT postcode,latitude, longitude, price as weight FROM price_by_postcode WHERE postcode rlike '^" + postcode + "[0-9]'";
+            			sql = "SELECT postcode,latitude, longitude, price/100000 as weight FROM price_by_postcode WHERE postcode rlike '^" + postcode + "[0-9]'";
             			//sql = "SELECT postcode,latitude, longitude, price as weight FROM price_by_postcode WHERE postcode like '" + postcode + "%'";
             			break;
             	case 2:	zoom = 10;
@@ -134,7 +134,7 @@ public class TestMapServlet extends HttpServlet
     	   				break;
             	default:
             			zoom = 19;
-            			sql = "SELECT  postcode, latitude, longitude, price as weight FROM price_by_postcode AS z JOIN (SELECT latitude as latpoint, longitude as longpoint, " + radius + " AS radius,      111.045 AS distance_unit FROM price_by_postcode WHERE postcode like '" + postcode + "%' limit 1) AS p ON 1=1 WHERE z.latitude BETWEEN p.latpoint  - (p.radius / p.distance_unit) AND p.latpoint  + (p.radius / p.distance_unit) AND z.longitude BETWEEN p.longpoint - (p.radius / (p.distance_unit * COS(RADIANS(p.latpoint)))) AND p.longpoint + (p.radius / (p.distance_unit * COS(RADIANS(p.latpoint))))";
+            			sql = "SELECT  postcode, latitude, longitude, price/100000 as weight FROM price_by_postcode AS z JOIN (SELECT latitude as latpoint, longitude as longpoint, " + radius + " AS radius,      111.045 AS distance_unit FROM price_by_postcode WHERE postcode like '" + postcode + "%' limit 1) AS p ON 1=1 WHERE z.latitude BETWEEN p.latpoint  - (p.radius / p.distance_unit) AND p.latpoint  + (p.radius / p.distance_unit) AND z.longitude BETWEEN p.longpoint - (p.radius / (p.distance_unit * COS(RADIANS(p.latpoint)))) AND p.longpoint + (p.radius / (p.distance_unit * COS(RADIANS(p.latpoint))))";
             			break;
             	}
            	}
@@ -196,8 +196,8 @@ public class TestMapServlet extends HttpServlet
         	out.println("			<input type='hidden' name='typeFind' value='P'>");
         	out.println("		</form>");
         	out.println("    <div id='floating-panel'>");
-        	out.println("		Postcode:<input type='text' id='pcode' style='width: 70px;' value='" + postcode + "'>");
-        	out.println("      <button onclick='showMap()'>Show Map</button>");
+        	out.println("	 <input type='text' id='pcode' size='10' maxlength='8' value='" + postcode + "'>");
+        	out.println("      <button onclick='showMap()'>Send</button>");
         	out.println("    </div>");
         	out.println("    <div id='map'></div>");
         	out.println("    <script type='text/javascript'>");

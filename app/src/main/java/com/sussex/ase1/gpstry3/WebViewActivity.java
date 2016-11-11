@@ -1,3 +1,4 @@
+
 package com.sussex.ase1.gpstry3;
 
 import android.content.Context;
@@ -99,8 +100,5 @@ import android.widget.TextView;*/
 
 
 }*/
-
-
-
 
 
