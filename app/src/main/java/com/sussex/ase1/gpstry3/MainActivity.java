@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package com.sussex.ase1.gpstry3;
 
 import android.content.Context;
@@ -51,7 +50,7 @@ public class MainActivity extends AppCompatActivity
 
     // Aux variables
     private final int REQUEST_RESULT = 666;
-    private LocationRequest mLocationRequest;
+    public LocationRequest mLocationRequest;
     private GoogleApiClient mGoogleApiClient;
     private double lat;
     private double lon;
@@ -98,8 +97,6 @@ public class MainActivity extends AppCompatActivity
         db = new DBHandler(this, null, null, 1);
         db.addLog(1, "Running Task 4");
 
-
-
         // Checks for permission granted: ACCESS_FINE_LOCATION
         // It allows use of phone location feature
         if (!checkPermission("android.permission.ACCESS_FINE_LOCATION"))
@@ -115,8 +112,6 @@ public class MainActivity extends AppCompatActivity
             requestPermission("android.permission.ACCESS_FINE_LOCATION",REQUEST_RESULT);
         }
     }
-
-
 
 
 
@@ -201,25 +196,25 @@ public class MainActivity extends AppCompatActivity
     }
 
     public void onClick2(View arg0) {
+
         //validate gps turned on, else clear marker and coordinates
-        if(!CheckGpsStatus())
-        {
-            lat = 0; lon = 0;
+        if(!CheckGpsStatus()) {
+            lat = 0;
+            lon = 0;
         }
 
         //validate internet access on, else send message notifying it, keep coordinates
-        if(!CheckInternetAccessStatus())
-        {
-            lat = 0; lon = 0;
+        if(!CheckInternetAccessStatus()) {
+            lat = 0;
+            lon = 0;
         }
-
-
-
 
         Intent webIntent = new Intent(context, WebViewActivity.class);
         webIntent.putExtra("typeFind", "L");
         webIntent.putExtra("latitude", String.valueOf(lat));
         webIntent.putExtra("longitude", String.valueOf(lon));
+        mLocationRequest = null;
+        mGoogleApiClient.disconnect();
         startActivity(webIntent);
     }
 

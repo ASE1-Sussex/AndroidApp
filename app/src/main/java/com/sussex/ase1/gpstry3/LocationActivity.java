@@ -360,57 +360,5 @@ public class LocationActivity extends AppCompatActivity implements OnMapReadyCal
         } else
             return true;
     }
-
-
-
-
-//    void configure_button(){
-//        // first check for permissions
-//        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
-//            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
-//                requestPermissions(new String[]{Manifest.permission.ACCESS_COARSE_LOCATION,Manifest.permission.ACCESS_FINE_LOCATION,Manifest.permission.INTERNET}
-//                        ,10);
-//            }
-//            return;
-//        }
-//        // this code won't execute IF permissions are not allowed, because in the line above there is return statement.
-//        b.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                //noinspection MissingPermission
-//                locationManager.requestLocationUpdates("gps", 1000, 0, listener);
-//                zoomed=false;
-//            }
-//        });
-//
-//    }
-//
-//    public void checkPermission()
-//    {
-//        int permission = ContextCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION);
-//        if (permission != PackageManager.PERMISSION_GRANTED)
-//        {
-//            if (ActivityCompat.shouldShowRequestPermissionRationale(this, android.Manifest.permission.ACCESS_FINE_LOCATION ))
-//            {
-//                AlertDialog.Builder builder = new AlertDialog.Builder(this);
-//                builder.setMessage("Permission to access the Location is required for this app to run.").setTitle("Permission required");
-//                builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
-//                    public void onClick(DialogInterface dialog, int id) {
-//                        makeRequest();
-//                    }
-//                });
-//
-//                AlertDialog dialog = builder.create();
-//                dialog.show();
-//            } else {
-//                makeRequest();
-//            }
-//        }
-//    }
-//
-//    protected void makeRequest()
-//    {
-//        ActivityCompat.requestPermissions(this, new String[]{android.Manifest.permission.ACCESS_FINE_LOCATION}, REQUEST_LOCATION_CODE);
-//    }
 }
 
