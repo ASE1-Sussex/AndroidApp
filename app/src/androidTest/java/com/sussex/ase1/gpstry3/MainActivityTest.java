@@ -42,66 +42,66 @@ public class MainActivityTest {
     @Rule
     public ActivityTestRule<MainActivity> mActivityRule =
             new ActivityTestRule<>(MainActivity.class);
-//    @Test
-//    public void useAppContext() throws Exception {
-//// Context of the app under test.
-//        Context appContext = getTargetContext();
-//        assertEquals("com.sussex.ase1.gpstry3", appContext.getPackageName());
-//    }
-//    @Test
-//    public void testPermissionGrantedACCESS_FINE_LOCATION() throws Exception {
-//        Log.e("testPermissionFINEELOC", "");
-//        MainActivity aaa = mActivityRule.getActivity();
-//        Context testContext = aaa;
-////Context testContext = getActivity().getContext();
-////Context testContext = InstrumentationRegistry.getTargetContext();
-//        PackageManager pm = testContext.getPackageManager();
-//        int permission = ContextCompat.checkSelfPermission(aaa, android.Manifest.permission.ACCESS_FINE_LOCATION);
-//        int expected = PackageManager.PERMISSION_GRANTED;
-//        if (expected == permission) {
-//            Log.e(""+Integer.toString(permission)+" == "+Integer.toString(expected)+ " :"," test success");
-//        }
-//        else {
-//            Log.e(""+Integer.toString(permission)+" != "+Integer.toString(expected)+ " :"," test failed");
-//        }
-//        assertEquals(expected, permission);
-//    }
-//    @Test
-//    public void testPermissionGrantedACCESS_COARSE_LOCATION() throws Exception {
-//        Log.e("testPermissionCOARSELOC", "");
-//        MainActivity aaa = mActivityRule.getActivity();
-//        Context testContext = aaa;
-////Context testContext = getActivity().getContext();
-////Context testContext = InstrumentationRegistry.getTargetContext();
-//        PackageManager pm = testContext.getPackageManager();
-//        int permission = ContextCompat.checkSelfPermission(aaa, android.Manifest.permission.ACCESS_COARSE_LOCATION);
-//        int expected = PackageManager.PERMISSION_GRANTED;
-//        if (expected == permission) {
-//            Log.e(""+Integer.toString(permission)+" == "+Integer.toString(expected)+ " :"," test success");
-//        }
-//        else {
-//            Log.e(""+Integer.toString(permission)+" != "+Integer.toString(expected)+ " :"," test failed");
-//        }
-//        assertEquals(expected, permission);
-//    }
-//    @Test
-//    public void testPermissionGrantedINTERNET() throws Exception {
-//        Log.e("testPermissionINTERNET", "");
-//        MainActivity aaa = mActivityRule.getActivity();
-//        Context testContext = aaa;
-////Context testContext = getActivity().getContext();
-////Context testContext = InstrumentationRegistry.getTargetContext();
-//        PackageManager pm = testContext.getPackageManager();
-//        int permission = ContextCompat.checkSelfPermission(aaa, Manifest.permission.INTERNET);
-//        int expected = PackageManager.PERMISSION_GRANTED;
-//        if (expected == permission) {
-//            Log.e(""+Integer.toString(permission)+" == "+Integer.toString(expected)+ " :"," test success");
-//        }
-//        else {
-//            Log.e(""+Integer.toString(permission)+" != "+Integer.toString(expected)+ " :"," test failed");
-//        }
-//        assertEquals(expected, permission);
-//    }
+    @Test
+    public void useAppContext() throws Exception {
+// Context of the app under test.
+        Context appContext = getTargetContext();
+        assertEquals("com.sussex.ase1.gpstry3", appContext.getPackageName());
+    }
+    @Test
+    public void testPermissionGrantedACCESS_FINE_LOCATION() throws Exception {
+        Log.e("testPermissionFINEELOC", "");
+        MainActivity aaa = mActivityRule.getActivity();
+        Context testContext = aaa;
+//Context testContext = getActivity().getContext();
+//Context testContext = InstrumentationRegistry.getTargetContext();
+        PackageManager pm = testContext.getPackageManager();
+        int permission = ContextCompat.checkSelfPermission(aaa, android.Manifest.permission.ACCESS_FINE_LOCATION);
+        int expected = PackageManager.PERMISSION_GRANTED;
+        if (expected == permission) {
+            Log.e(""+Integer.toString(permission)+" == "+Integer.toString(expected)+ " :"," test success");
+        }
+        else {
+            Log.e(""+Integer.toString(permission)+" != "+Integer.toString(expected)+ " :"," test failed");
+        }
+        assertEquals(expected, permission);
+    }
+    @Test
+    public void testPermissionGrantedACCESS_COARSE_LOCATION() throws Exception {
+        Log.e("testPermissionCOARSELOC", "");
+        MainActivity aaa = mActivityRule.getActivity();
+        Context testContext = aaa;
+//Context testContext = getActivity().getContext();
+//Context testContext = InstrumentationRegistry.getTargetContext();
+        PackageManager pm = testContext.getPackageManager();
+        int permission = ContextCompat.checkSelfPermission(aaa, android.Manifest.permission.ACCESS_COARSE_LOCATION);
+        int expected = PackageManager.PERMISSION_GRANTED;
+        if (expected == permission) {
+            Log.e(""+Integer.toString(permission)+" == "+Integer.toString(expected)+ " :"," test success");
+        }
+        else {
+            Log.e(""+Integer.toString(permission)+" != "+Integer.toString(expected)+ " :"," test failed");
+        }
+        assertEquals(expected, permission);
+    }
+    @Test
+    public void testPermissionGrantedINTERNET() throws Exception {
+        Log.e("testPermissionINTERNET", "");
+        MainActivity aaa = mActivityRule.getActivity();
+        Context testContext = aaa;
+//Context testContext = getActivity().getContext();
+//Context testContext = InstrumentationRegistry.getTargetContext();
+        PackageManager pm = testContext.getPackageManager();
+        int permission = ContextCompat.checkSelfPermission(aaa, Manifest.permission.INTERNET);
+        int expected = PackageManager.PERMISSION_GRANTED;
+        if (expected == permission) {
+            Log.e(""+Integer.toString(permission)+" == "+Integer.toString(expected)+ " :"," test success");
+        }
+        else {
+            Log.e(""+Integer.toString(permission)+" != "+Integer.toString(expected)+ " :"," test failed");
+        }
+        assertEquals(expected, permission);
+    }
 
     @Test
     public void validPostcode() throws Exception {
