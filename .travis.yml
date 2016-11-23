@@ -3,14 +3,14 @@ android:
   components:
     - tools
     - build-tools-24.0.3
-    - android-24
+    - android-22
     - platform-tools
     - extra-android-support # because I'm use support library
     - extra-android-m2repository # because I'm use support library
     - extra-google-m2repository
     #- sys-img-x86-android-24
     #- extra-intel-Hardware_Accelerated_Execution_Manager
-    - sys-img-armeabi-v7a-android-24
+    - sys-img-armeabi-v7a-android-22
 
   licenses:
     - '.+'
