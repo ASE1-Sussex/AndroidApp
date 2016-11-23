@@ -21,7 +21,7 @@ env:
   global:
     - TERM=dumb
   matrix:
-  - ANDROID_TARGET=android-24 ANDROID_ABI=armeabi-v7a
+  - ANDROID_TARGET=android-22 ANDROID_ABI=armeabi-v7a
   #default/x86
 
 sudo: required
@@ -53,6 +53,8 @@ before_script:
 script:
   - travis_wait ./gradlew connectedCheck
   - adb devices
+after_success:
+  -bash <(curl -s https://codecov.io/bash)
 
 
 

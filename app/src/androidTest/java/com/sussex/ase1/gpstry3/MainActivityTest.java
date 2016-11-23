@@ -42,6 +42,7 @@ public class MainActivityTest {
     @Rule
     public ActivityTestRule<MainActivity> mActivityRule =
             new ActivityTestRule<>(MainActivity.class);
+
     @Test
     public void useAppContext() throws Exception {
 // Context of the app under test.
@@ -102,6 +103,7 @@ public class MainActivityTest {
         }
         assertEquals(expected, permission);
     }
+
 
     @Test
     public void validPostcode() throws Exception {

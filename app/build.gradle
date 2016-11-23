@@ -21,10 +21,12 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    productFlavors {
+    }
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
@@ -36,14 +38,10 @@ dependencies {
     compile 'com.android.support:support-v4:24.2.1'
     //compile 'com.google.android.gms:play-services:8.4.0'
     //compile 'com.google.android.gms:play-services-appindexing:8.4.0'
-
     // Required for local unit tests (JUnit 4 framework)
-
     // Required for instrumented tests
     androidTestCompile 'com.android.support:support-annotations:24.2.1'
     androidTestCompile 'com.android.support.test:runner:0.5'
     androidTestCompile 'com.android.support.test:rules:0.5'
-
-    testCompile "org.mockito:mockito-core:2.0.57-beta"
-
+    testCompile 'org.mockito:mockito-core:2.0.57-beta'
 }
