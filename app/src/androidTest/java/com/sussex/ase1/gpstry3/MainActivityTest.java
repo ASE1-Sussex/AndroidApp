@@ -49,7 +49,7 @@ public class MainActivityTest {
         Context appContext = getTargetContext();
         assertEquals("com.sussex.ase1.gpstry3", appContext.getPackageName());
     }
-    @Test
+    //@Test
    // public void testPermissionGrantedACCESS_FINE_LOCATION() throws Exception {
  //    Log.e("testPermissionFINEELOC", "");
         //MainActivity aaa = mActivityRule.getActivity();
