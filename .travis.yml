@@ -3,14 +3,14 @@ android:
   components:
     - tools
     - build-tools-24.0.3
-    - android-22
+    - android-24
     - platform-tools
     - extra-android-support # because I'm use support library
     - extra-android-m2repository # because I'm use support library
     - extra-google-m2repository
     #- sys-img-x86-android-24
     #- extra-intel-Hardware_Accelerated_Execution_Manager
-    - sys-img-armeabi-v7a-android-22
+    - sys-img-armeabi-v7a-android-24
 
   licenses:
     - '.+'
@@ -21,7 +21,7 @@ env:
   global:
     - TERM=dumb
   matrix:
-  - ANDROID_TARGET=android-22 ANDROID_ABI=armeabi-v7a
+  - ANDROID_TARGET=android-24 ANDROID_ABI=armeabi-v7a
   #default/x86
 
 sudo: required
