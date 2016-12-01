@@ -43,6 +43,24 @@ public class MainActivityTest {
     public ActivityTestRule<MainActivity> mActivityRule =
             new ActivityTestRule<>(MainActivity.class);
 
+     @Test
+    public void testPermissionGrantedACCESS_COARSE_LOCATION() throws Exception {
+        Log.e("testPermissionCOARSELOC", "");
+        MainActivity aaa = mActivityRule.getActivity();
+        Context testContext = aaa;
+
+        PackageManager pm = testContext.getPackageManager();
+        int permission = ContextCompat.checkSelfPermission(aaa, android.Manifest.permission.ACCESS_COARSE_LOCATION);
+        int expected = PackageManager.PERMISSION_GRANTED;
+        if (expected == permission) {
+            Log.e(""+Integer.toString(permission)+" == "+Integer.toString(expected)+ " :"," test success");
+        }
+        else {
+            Log.e(""+Integer.toString(permission)+" != "+Integer.toString(expected)+ " :"," test failed");
+        }
+        assertEquals(expected, permission);
+    }
+
 
 
     @Test
