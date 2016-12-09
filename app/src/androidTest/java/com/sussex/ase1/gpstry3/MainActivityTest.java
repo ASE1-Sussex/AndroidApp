@@ -42,7 +42,7 @@ public class MainActivityTest {
     @Rule
     public ActivityTestRule<MainActivity> mActivityRule =
             new ActivityTestRule<>(MainActivity.class);
-
+/*
      @Test
     public void testPermissionGrantedACCESS_COARSE_LOCATION() throws Exception {
         Log.e("testPermissionCOARSELOC", "");
@@ -60,6 +60,7 @@ public class MainActivityTest {
         }
         assertEquals(expected, permission);
     }
+    */
 
 
 
